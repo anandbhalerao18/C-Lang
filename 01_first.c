@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-// Topic: Introductory C Code - "Hello World"
+]// Topic: Introductory C Code - "Hello World"
 // -----------------------------------------
 // This is the first basic C program used to understand the structure and boilerplate of a C program.
 // The program prints "hello world" and "hello anand" to the console.
@@ -41,7 +40,7 @@ int main() {
     return 0; // Returns 0 to indicate successful program termination
 }
 
-// What Does a Boilerplate C Code Look Like?
+// What Does a Boilerplate C Code Look Like? 
 // -----------------------------------------
 // A boilerplate C program typically includes:
 // 1. **Header Files**:
@@ -73,12 +72,3 @@ int main() {
 // -----------------
 // hello world
 // hello anand
-=======
-#include<stdio.h>
-
-int main(){
-    printf("hello world");
-    printf("hello anand");
-    return 0;
-}
->>>>>>> ce6ef26431f503f427315e779a015ecb8cc0fa98

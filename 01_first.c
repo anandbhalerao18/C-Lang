@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Topic: Introductory C Code - "Hello World"
 // -----------------------------------------
 // This is the first basic C program used to understand the structure and boilerplate of a C program.
@@ -72,3 +73,12 @@ int main() {
 // -----------------
 // hello world
 // hello anand
+=======
+#include<stdio.h>
+
+int main(){
+    printf("hello world");
+    printf("hello anand");
+    return 0;
+}
+>>>>>>> ce6ef26431f503f427315e779a015ecb8cc0fa98
